@@ -5,3 +5,4 @@ test2 from test branch
 master test3
 master test4
 test3 from test
+test4 from test
