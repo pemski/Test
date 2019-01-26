@@ -3,3 +3,4 @@ test2 from master
 test1 from test branch
 test2 from test branch
 master test3
+master test4
